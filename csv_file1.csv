@@ -1,0 +1,2 @@
+,Unnamed: 0,Unnamed: 0.1,type_building,Suggestion,tenant,owner,buyer,mortgage_amount,rental_amount,sales_amount,sales_rental,address,active_inactive,telephone,area,number_rooms,number_floor,floor,parking,area_yard
+0,0,0,store,yes,['none'],"['z', 'y']","['s', 't']",0.0,0.0,123.0,sale,asdf,inactive,qswdef,123.0,,,,,
